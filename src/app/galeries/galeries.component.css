@@ -1,0 +1,12 @@
+h4, h3 {
+    text-align: center;
+}
+
+.d-block img {
+    height: 15rem;
+    width: 20rem;
+}
+
+.carousel-cell a {
+    cursor: -webkit-grab;
+} 

@@ -1,0 +1,63 @@
+<section>
+        <div class="container">
+            <div class="row justify-content-center text-center section-intro">
+                <div class="col-12 col-md-9 col-lg-8">
+                    <!-- <span class="title-decorative">Perfect for Startups</span> -->
+                    <h2 class="display-4">Cabañas en Tandil</h2>
+                    <span class="lead">Ubicadas en un lugar privilegiado de Tandil, a metros de las sierras, muy cerca de El Centinela y a tan
+                        solo 5 minutos del centro de la ciudad.</span>
+                        
+
+                </div>
+
+            </div>
+
+            <ul class="feature-list feature-list-lg">
+                <li class="row justify-content-around align-items-center">
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <img alt="Image" src="assets/img/slider7.jpg" class="img-fluid rounded" />
+                    </div>
+
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <!-- <h5>Set your phasers to stun</h5> -->
+                        <p>
+                            Atendidas por sus propios dueños, dotadas de detalles de confort y calidez, para un merecido descanso en nuestra ciudad.
+                        </p>
+                        <!-- <a href="#">More about Phasers &rsaquo;</a> -->
+                    </div>
+
+                </li>
+                <li class="row justify-content-around align-items-center">
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <img alt="Image" src="assets/img/atardecer-en-el-lago.jpg" class="img-fluid rounded" />
+                    </div>
+
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <!-- <h5>Set your phasers to stun</h5> -->
+                        <p>
+                            Descubra un atardecer distinto y un amanecer donde solo reina la paz y la tranquilidad.
+                        </p>
+                        <!-- <a href="#">More about Phasers &rsaquo;</a> -->
+                    </div>
+
+                </li>
+                <li class="row justify-content-around align-items-center">
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <img alt="Image" src="assets/img/exterior.jpg" class="img-fluid rounded" />
+                    </div>
+
+                    <div class="col-12 col-md-6 col-lg-5">
+                        <!-- <h5>Set your phasers to stun</h5> -->
+                        <p>
+                            Queremos que disfrute junto a nosotros de nuestro lugar, es por eso que lo invitamos a consultarnos por disponibilidad, tarifas
+                            vigentes y promociones. Nuestros visitantes nos recomiendan, siendo esa nuestra principal publicidad.
+
+                        </p>
+                        <!-- <a href="#">More about Phasers &rsaquo;</a> -->
+                    </div>
+
+                </li>
+            </ul>
+        </div>
+
+    </section>
