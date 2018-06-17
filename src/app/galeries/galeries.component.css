@@ -25,3 +25,8 @@ section {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
+
+.bg-dark {
+    border-top: 5px solid #343a40 !important;
+    border-bottom: 5px solid #343a40 !important;
+}

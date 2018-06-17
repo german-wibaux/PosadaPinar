@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { SlideshowModule } from 'ng-simple-slideshow';
 import { GaleriesComponent } from './galeries/galeries.component';
 import { RouterModule, Routes } from '@angular/router';
+import { PromotionsComponent } from './promotions/promotions.component';
 const appRoutes: Routes = [
   { path: 'galeries', component: GaleriesComponent },
   // { path: 'hero/:id',      component: HeroDetailComponent },
@@ -29,7 +30,8 @@ const appRoutes: Routes = [
     HeaderComponent,
     BodyComponent,
     FooterComponent,
-    GaleriesComponent
+    GaleriesComponent,
+    PromotionsComponent
   ],
   imports: [
     RouterModule.forRoot(
