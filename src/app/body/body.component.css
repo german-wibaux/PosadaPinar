@@ -106,8 +106,49 @@
   }
 
   .features-list-custom .col-6 {
-    max-width:25rem;
+    max-width:26rem;
   }
+
+  .features-list-custom .col-6 ul {
+    list-style: none;
+    padding-left: 1.2rem;
+  }
+
+  .col-6 .box-shadow .avatar.avatar-xs {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .avatar-custom .avatar {
+    width: 1.3rem;
+    height: 1rem;
+  }
+
+  .avatar-custom-1 .avatar {
+    width: 1rem;
+    height: 0.8rem;
+  }
+
+  .avatar-custom-1 {
+    margin-left: 0.17rem;
+  }
+
+  .custom-wireless {
+    margin-left: 0.17rem;
+  }
+
+  .avatar-custom-2 .avatar {
+    width: 1rem;
+    height: 1rem;
+    
+  }
+
+  .avatar-custom-2 img {
+    margin-bottom: 0.1rem;
+    margin-left: 0.15rem;
+    margin-right: 0.1rem;
+  }
+  
 
 
 
