@@ -61,3 +61,6 @@
         </div>
 
     </section>
+
+    iframe de posadas del pinar para insertar
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12687.516071847116!2d-59.1633615!3d-37.3453728!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2ce518cf81531ace!2sCaba%C3%B1as+Posada+del+Pinar!5e0!3m2!1ses!2sar!4v1529262905841" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
