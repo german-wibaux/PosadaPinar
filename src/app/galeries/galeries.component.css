@@ -10,3 +10,18 @@ h4, h3 {
 .carousel-cell a {
     cursor: -webkit-grab;
 } 
+
+.d-block img {
+    /* height: 15rem; */
+    width: 25rem;
+}
+
+section {
+    padding: 0;
+}
+
+.bg-dark h3 {
+    margin: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
