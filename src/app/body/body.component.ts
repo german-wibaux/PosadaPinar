@@ -27,7 +27,7 @@ export class BodyComponent implements OnInit {
   onNavigation() {
     this.navigation = !this.navigation;
     console.log(this.navigation);
-    //this.router.navigate(['/galeries']);
+    // this.router.navigate(['/galeries']);
   }
 
 
