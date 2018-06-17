@@ -148,6 +148,12 @@
     margin-left: 0.15rem;
     margin-right: 0.1rem;
   }
+
+  .col-lg-3 {
+    position:  absolute;
+    z-index: 100;
+    /* right: 0; */
+  }
   
 
 

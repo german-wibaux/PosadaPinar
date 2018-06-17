@@ -9,6 +9,7 @@ import { SlideshowModule } from 'ng-simple-slideshow';
 import { GaleriesComponent } from './galeries/galeries.component';
 import { RouterModule, Routes } from '@angular/router';
 import { PromotionsComponent } from './promotions/promotions.component';
+import { ContactComponent } from './contact/contact.component';
 const appRoutes: Routes = [
   { path: 'galeries', component: GaleriesComponent },
   // { path: 'hero/:id',      component: HeroDetailComponent },
@@ -31,7 +32,8 @@ const appRoutes: Routes = [
     BodyComponent,
     FooterComponent,
     GaleriesComponent,
-    PromotionsComponent
+    PromotionsComponent,
+    ContactComponent
   ],
   imports: [
     RouterModule.forRoot(

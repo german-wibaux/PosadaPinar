@@ -18,10 +18,13 @@
                             <a href="#nuestrasCabañas" class="nav-link hvr-bob">Nuestras cabañas</a>
                         </li>
                         <li class="nav-item">
-                            <a href="index.html" class="nav-link hvr-bob">Promociones</a>
+                            <a href="#promociones" class="nav-link hvr-bob">Promociones</a>
                         </li>
                         <li class="nav-item">
-                            <a href="index.html" class="nav-link hvr-bob">Contacto</a>
+                            <a class="nav-link hvr-bob" data-toggle="modal" data-target="#exampleModalCenter">Contacto</a>
+                            <!-- <button type="button" class="nav-link hvr-bob" data-toggle="modal" data-target="#exampleModalCenter">
+                                    Launch demo modal
+                                  </button> -->
                         </li>
                         <li class="nav-item dropdown">
                             <!-- <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown">Pages</a> -->
@@ -80,7 +83,7 @@
 
 <div class="main-container">
 
-
+        
 
     <section class="bg-dark text-white space-xlg">
 
@@ -113,7 +116,36 @@
         </div>
     </section>
 
-
+    <div class="row">
+            <div class="col-lg-3">
+                    <div data-sticky="top">
+                        <div class="card card-borderless bg-secondary">
+                            <a class="card-body" href="#">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <!-- <img alt="Image" src="assets/img/logo-w-gradient.svg" /> -->
+                                    <span class="title-decorative">Promociones</span>
+                                </div>
+                                <span class="h6">No dejes de ver nuestras promociones disponibles!</span>
+                            </a>
+                        </div>
+                        <!-- end card -->
+                        <!-- <div class="card">
+                            <div class="card-body">
+                                <h6>Never miss an update ✌</h6>
+                                <form>
+                                    <div class="form-group mb-2">
+                                        <input type="email" placeholder="Email Address" name="subscribeEmail" class="form-control" />
+                                        <small>No spam, we promise.</small>
+                                    </div>
+                                    <button type="submit" class="btn btn-block btn-primary">Subscribe</button>
+                                </form>
+                            </div>
+                        </div> -->
+                    </div>
+                    <!-- end of sticky-->
+                </div>
+                <!--end of col-->
+    </div>
 
     <section id="nuestrasCabañas"> 
         <div class="container">
@@ -127,6 +159,8 @@
                 </div>
 
             </div>
+
+            
 
             <div class="row features-list-custom">
                 <div class="col-6 col-md-9 col-lg-8">
@@ -279,9 +313,11 @@
         </div>
     </section> -->
 
+    <!-- <router-outlet></router-outlet > -->
+<app-galeries></app-galeries>
+<app-promotions></app-promotions>
+<app-contact></app-contact>
+
 </div>
 
 
-<!-- <router-outlet></router-outlet > -->
-<app-galeries></app-galeries>
-<app-promotions></app-promotions>
