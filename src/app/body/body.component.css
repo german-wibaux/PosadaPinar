@@ -566,19 +566,19 @@
 
 }
 
-[data-type="carousel-1"] .content__left { background-image: url("1.jpg"); }
+[data-type="carousel-1"] .content__left { background-image: url("/assets/img/slider6.jpg"); }
 
 .spinner--right [data-type="carousel-1"] .content__left { background-image: none; }
 
-[data-type="carousel-2"] .content__left { background-image: url("2.jpg"); }
+[data-type="carousel-2"] .content__left { background-image: url("/assets/img/slider7.png"); }
 
 .spinner--right [data-type="carousel-2"] .content__left { background-image: none; }
 
-[data-type="carousel-3"] .content__left { background-image: url("3.jpg"); }
+[data-type="carousel-3"] .content__left { background-image: url("/assets/img/slider10.png"); }
 
 .spinner--right [data-type="carousel-3"] .content__left { background-image: none; }
 
-[data-type="carousel-4"] .content__left { background-image: url("4.jpg"); }
+[data-type="carousel-4"] .content__left { background-image: url("/assets/img/slider12.png"); }
 
 .spinner--right [data-type="carousel-4"] .content__left { background-image: none; }
 
